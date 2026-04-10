@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Saurabh
 
-<!--
-**mehtasaurabhsingh2-sketch/mehtasaurabhsingh2-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Web3 Developer in Progress
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+
+* JavaScript (Core + DOM)
+* Web3 Basics
+* Wallet Integration (MetaMask)
+* Git & GitHub (Automation workflows)
+
+---
+
+## 🔨 Projects I'm Building
+
+* Simple Web Apps (HTML/CSS/JS)
+* Web3 Wallet Connect Apps
+* Blockchain Interaction Projects
+
+---
+
+## ⚡ My Workflow
+
+* Build → Push → Improve → Repeat
+* Daily commits
+* Clean code structure
+
+---
+
+## 🎯 Goal
+
+Become a job-ready Web3 Developer in 4–5 months
+
+---
+
+## 📊 GitHub Activity
+
+(Consistent commits = consistent growth)
+
+---
+
+## 📌 Motto
+
+> "Learn by building, not just watching"
